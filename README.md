@@ -10,14 +10,14 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shudipto-roy&label=Profile%20views&color=0e75b6&style=flat" alt="shudipto-roy" />
+  <img src="https://komarev.com/ghpvc/?username=Shudipto-creator&label=Profile%20views&color=0e75b6&style=flat" alt="Shudipto-creator" />
 </p>
 
 ## About Me
 
 - 🎓 Currently pursuing **Software Engineering**
 - 🌱 I'm currently learning **Advanced Web Development**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shudipto-roy)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shudipto-creator)
 - 📫 How to reach me: **shudiptoroy6@gmail.com**
 - ⚡ Fun fact: **Insist there's nothing interesting about me at all. Funny and the only truly respectable option.**
 
@@ -26,14 +26,14 @@
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/shudipto-roy">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shudipto-roy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudipto-roy&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  <a href="https://github.com/Shudipto-creator">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shudipto-creator&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shudipto-creator&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
-  <img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=shudipto-roy&theme=github-dark-blue&hide_border=true" alt="shudipto-roy" />
+  <img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Shudipto-creator&theme=github-dark-blue&hide_border=true" alt="Shudipto-creator" />
 </div>
 
 <br>
