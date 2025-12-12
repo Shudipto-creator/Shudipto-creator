@@ -18,7 +18,7 @@
 - 🎓 Currently pursuing **Software Engineering**
 - 🌱 I'm currently learning **Advanced Web Development**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shudipto-creator)
-- 👨‍💻 My personal portfolio website:[Portfolio](https://github.com/Shudipto-creator)
+- 👨‍💻 My personal portfolio website:[Portfolio](https://sudipta-roy.netlify.app/)
 - 📫 How to reach me: **shudiptoroy6@gmail.com**
 - ⚡ Fun fact: **Insist there's nothing interesting about me at all. Funny and the only truly respectable option.**
 
