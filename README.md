@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">Hi 👋, I'm Shudipto Roy</h1>
+<h1 align="center">Hi 👋, I'm Sudipta Roy</h1>
 <h3 align="center">A passionate Software Engineering student from Bangladesh</h3>
 
 <p align="center">
