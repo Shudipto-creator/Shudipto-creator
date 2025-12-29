@@ -24,27 +24,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Shudipto-creator&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shudipto-creator&theme=tokyonight&hide_border=true" alt="Shudipto-creator" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shudipto-creator&hide=jupyter%20notebook&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=true" alt="Shudipto-creator" />
-</div>
-
-<br>
-
 ## 🛠️ Skills & Technologies
 
 <table align="center">
